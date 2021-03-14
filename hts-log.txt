@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 13 Mar 2021 20:07:29 at https://f23jy73ybfp0g5l7coxn4q-on.drv.tw/Mahashivratri.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://f23jy73ybfp0g5l7coxn4q-on.drv.tw/Mahashivratri.com/ -O1 "C:\My Web Sites\Mahashivratri.com_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:07:36	Warning: 	Note: due to https://f23jy73ybfp0g5l7coxn4q-on.drv.tw remote robots.txt rules, links beginning with these path will be forbidden: /tos.html, /privacy.html (see in the options to disable this)
+20:10:15	Error: 	"Not Found" (404) at link https://f23jy73ybfp0g5l7coxn4q-on.drv.tw/Mahashivratri.com/animation.css (from https://f23jy73ybfp0g5l7coxn4q-on.drv.tw/Mahashivratri.com/)
+20:10:15	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://1.bp.blogspot.com/-IJGopGY_-fM/XxrBpn7CNFI/AAAAAAAAB38/3w1lLt4b-Z4k9gKoUnbNp464vommJ71BgCLcBGAsYHQ/s50/firsttechinfoar.blogspot.com.gif (from https://f23jy73ybfp0g5l7coxn4q-on.drv.tw/Mahashivratri.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 59 seconds : 30 links scanned, 27 files written (6852901 bytes overall) [6490204 bytes received at 27155 bytes/sec], 500955 bytes transferred using HTTP compression in 12 files, ratio 22%, 1.0 requests per connection
+(1 errors, 2 warnings, 0 messages)
